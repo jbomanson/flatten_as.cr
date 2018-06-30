@@ -1,0 +1,9 @@
+name: flatten_as
+version: 0.1.0
+
+authors:
+  - Jori Bomanson <jori.bomanson@gmail.fi>
+
+crystal: 0.24.2
+
+license: Apache-2.0
